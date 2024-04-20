@@ -1,0 +1,7 @@
+.btn-group button {
+    margin-right: 10px; 
+}
+
+.btn-group button:hover {
+    text-transform: capitalize; 
+}
